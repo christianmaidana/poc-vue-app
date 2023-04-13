@@ -1,0 +1,1 @@
+export default (name) => (message) => console.log(`[${name}] - ${message}`);
